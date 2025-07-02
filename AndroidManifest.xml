@@ -242,7 +242,7 @@
                 android:resource="@string/trust_summary" />
         </activity-alias>
 
-        <!-- Contributors Cloud (MyDeviceInfo category) -->
+        <!-- Contributors Cloud (MyDeviceInfo category)
         <activity-alias
             android:name=".contributors.ContributorsCloudFragment"
             android:exported="true"
@@ -266,7 +266,7 @@
             <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/summary_empty" />
-        </activity-alias>
+        </activity-alias> -->
 
         <!-- Anonymous Statistics -->
         <receiver
@@ -316,7 +316,7 @@
             </intent-filter>
         </activity>
 
-        <activity
+        <!--<activity
             android:name=".egg.octo.Ocquarium"
             android:exported="true"
             android:label="@string/egg_title"
@@ -326,7 +326,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="com.android.internal.category.PLATLOGO" />
             </intent-filter>
-        </activity>
+        </activity>-->
 
     </application>
 </manifest>
