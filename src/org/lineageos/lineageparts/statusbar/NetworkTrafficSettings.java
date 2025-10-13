@@ -9,7 +9,7 @@ import android.content.ContentResolver;
 import android.os.Bundle;
 import android.view.View;
 
-import androidx.preference.DropDownPreference;
+import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
 import lineageos.preference.LineageSecureSettingSwitchPreference;
@@ -39,11 +39,11 @@ public class NetworkTrafficSettings extends SettingsPreferenceFragment
     private static final int SHOW_UNITS_ON = 1;
     private static final int SHOW_UNITS_COMPACT = 2;
 
-    private DropDownPreference mNetTrafficMode;
-    private DropDownPreference mNetTrafficPosition;
+    private ListPreference mNetTrafficMode;
+    private ListPreference mNetTrafficPosition;
     private LineageSecureSettingSwitchPreference mNetTrafficAutohide;
-    private DropDownPreference mNetTrafficUnits;
-    private DropDownPreference mNetTrafficShowUnits;
+    private ListPreference mNetTrafficUnits;
+    private ListPreference mNetTrafficShowUnits;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
