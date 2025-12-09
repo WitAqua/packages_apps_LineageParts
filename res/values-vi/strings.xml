@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">Kiểu trạng thái pin</string>
     <string name="status_bar_battery_style_icon_portrait">Biểu tượng đứng</string>
     <string name="status_bar_battery_style_circle">Vòng tròn</string>
+    <string name="status_bar_battery_style_dotted_circle">Vòng tròn chấm</string>
     <string name="status_bar_battery_style_text">Văn bản</string>
     <string name="status_bar_battery_percentage_title">Tỷ lệ phần trăm pin</string>
     <string name="status_bar_battery_percentage_default">Ẩn</string>

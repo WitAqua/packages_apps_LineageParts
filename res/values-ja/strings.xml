@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">電池の状態のスタイル</string>
     <string name="status_bar_battery_style_icon_portrait">縦向きのアイコン</string>
     <string name="status_bar_battery_style_circle">サークル</string>
+    <string name="status_bar_battery_style_dotted_circle">ドットのサークル</string>
     <string name="status_bar_battery_style_text">テキスト</string>
     <string name="status_bar_battery_percentage_title">電池のパーセント表示</string>
     <string name="status_bar_battery_percentage_default">表示しない</string>

@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">Styl wskaźnika baterii</string>
     <string name="status_bar_battery_style_icon_portrait">Ikona pionowo</string>
     <string name="status_bar_battery_style_circle">Okrąg</string>
+    <string name="status_bar_battery_style_dotted_circle">Kropkowany okrąg</string>
     <string name="status_bar_battery_style_text">Tekst</string>
     <string name="status_bar_battery_percentage_title">Procent baterii</string>
     <string name="status_bar_battery_percentage_default">Ukryty</string>

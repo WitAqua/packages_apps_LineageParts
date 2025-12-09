@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">סגנון הצגת סוללה</string>
     <string name="status_bar_battery_style_icon_portrait">סמל עומד</string>
     <string name="status_bar_battery_style_circle">עיגול</string>
+    <string name="status_bar_battery_style_dotted_circle">עיגול מנוקד</string>
     <string name="status_bar_battery_style_text">טקסט</string>
     <string name="status_bar_battery_percentage_title">אחוזי סוללה</string>
     <string name="status_bar_battery_percentage_default">מוסתר</string>

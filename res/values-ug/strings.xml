@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">توكدان ھالەت ئۇسلۇبى</string>
     <string name="status_bar_battery_style_icon_portrait">سىنبەلگە رەسىمى</string>
     <string name="status_bar_battery_style_circle">چەمبەر</string>
+    <string name="status_bar_battery_style_dotted_circle">چېكىتلىك چەمبەر</string>
     <string name="status_bar_battery_style_text">تېكىست</string>
     <string name="status_bar_battery_percentage_title">توك مىقدارى پىرسەنتى</string>
     <string name="status_bar_battery_percentage_default">يوشۇرۇن</string>

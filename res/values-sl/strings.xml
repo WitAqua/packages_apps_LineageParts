@@ -372,6 +372,7 @@
     <string name="status_bar_battery_style_title">Slog stanja baterije</string>
     <string name="status_bar_battery_style_icon_portrait">Pokončna ikona</string>
     <string name="status_bar_battery_style_circle">Krog</string>
+    <string name="status_bar_battery_style_dotted_circle">Pikčast krog</string>
     <string name="status_bar_battery_style_text">Besedilo</string>
     <string name="status_bar_battery_percentage_title">Odstotek napolnjenosti baterije</string>
     <string name="status_bar_battery_percentage_default">Skrito</string>
