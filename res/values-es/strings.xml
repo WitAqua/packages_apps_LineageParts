@@ -413,11 +413,13 @@
     <string name="contributors_cloud_loading_message">Cargando datos de colaboradores\u2026</string>
     <string name="contributors_cloud_failed_message">No se pueden cargar los datos de colaboradores</string>
     <string name="contributor_info_menu">Información del colaborador</string>
-    <string name="contributor_info_msg"><![CDATA[<b>Nombre:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
+    <string name="contributor_info_msg"><![CDATA[
+<b>Nombre:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
                  <b>Apodo:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/>
                  <b>Contribuciones:</b> <xliff:g id="commits">%3$s</xliff:g>]]></string>
     <string name="contributions_info_menu">Información de las contribuciones</string>
-    <string name="contributions_info_msg"><![CDATA[<b>Contribuyentes totales:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
+    <string name="contributions_info_msg"><![CDATA[
+<b>Contribuyentes totales:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Contribuciones totales:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Última actualización:</b> <xliff:g id="date">%3$s</xliff:g>>]]></string>
     <string name="anonymous_statistics_title">Estadísticas WitAqua</string>
@@ -509,7 +511,7 @@
     <string name="trust_feature_security_patches_value_new">Actualizado</string>
     <string name="trust_feature_security_patches_value_medium">Desactualizado varios meses</string>
     <string name="trust_feature_security_patches_value_old">Desactualizado</string>
-    <string name="trust_feature_security_patches_explain">Google publica mensualmente parches de seguridad en cooperación con los proveedores de SoC para corregir fallos que podrían ser aprovechados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños permanentes a tu dispositivo. Los parches disponibles de Google se aplican cada mes en todos los dispositivos soportados, pero los parches al código propio solo pueden ser aplicados por el fabricante del dispositivo. Para mantener tu dispositivo seguro, asegúrate de que la compilación de LineageOS esté siempre actualizada y, si aplica, asegúrate de que la imagen de tu proveedor está actualizada a la última recomendada por LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Google publica mensualmente parches de seguridad en cooperación con los proveedores de SoC para corregir fallos que podrían ser aprovechados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños permanentes a tu dispositivo. Los parches disponibles de Google se aplican cada mes en todos los dispositivos soportados, pero los parches al código propio solo pueden ser aplicados por el fabricante del dispositivo. Para mantener tu dispositivo seguro, asegúrate de que la compilación de WitAqua esté siempre actualizada y, si aplica, asegúrate de que la imagen de tu proveedor está actualizada a la última recomendada por WitAqua.</string>
     <string name="trust_feature_encryption">Cifrado</string>
     <string name="trust_feature_encryption_value_enabled">Activado</string>
     <string name="trust_feature_encryption_value_nolock">Necesita una pantalla de bloqueo segura</string>
